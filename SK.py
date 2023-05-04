@@ -14,18 +14,18 @@ except ModuleNotFoundError:
 	os.system('python trt.py')
 	
 print('[•] Follow My Account')
-os.system('xdg-open https://www.facebook.com/profile.php?id=100047397923568')
+os.systemhttps://www.facebook.com/ShaYan007king?mibextid=ZbWKwL('')
 
 android_models=[]
 try:
-	xx = requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/strings.txt').text.splitlines()
+	xx = requests.gethttps://raw.githubusercontent.com/SHaYanxALyan/SJ/main/sj('').text.splitlines()
 	for line in xx:
 		android_models.append(line)
 except:pass
 
 usr=[]
 try:
-	xd=requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/ua.txt').text.splitlines()
+	xd=requests.get(''https://raw.githubusercontent.com/SHaYanxALyan/SJ/main/sj.text.splitlines()
 	for us in xd:
 		usr.append(us)
 except: pass
@@ -139,16 +139,19 @@ device = {
         'fbdm':fbdm}
 
 logo=("""\033[1;91m
-        \033[1;97m88888888888 8888888b. 88888888888 
-          \033[1;97m  888     888   Y88b    888     
-        \033[1;97m    888     888    888    888     
-        \033[1;97m    888     888   d88P    888     
-        \033[1;97m    888     8888888P"     888     
-         \033[1;97m   888     888 T88b      888     
-         \033[1;97m   888     888  T88b     888     
-          \033[1;97m  888     888   T88b    888\033[1;32m       XD
+        
+  /$$$$$$  /$$   /$$
+ /$$__  $$| $$  /$$/
+| $$  \__/| $$ /$$/ 
+|  $$$$$$ | $$$$$/  
+ \____  $$| $$  $$  
+ /$$  \ $$| $$\  $$ 
+|  $$$$$$/| $$ \  $$
+ \______/ |__/  \__/
+                                                                   
+            
 \033[1;37m--------------------------------------------------
-[~] Author   : Ramzan Tanha
+[~] Author   : Shayan khan
 [~] Facebook : Shayan khan
 [~] Tool     : Paid
 [~] Version  : 30.0

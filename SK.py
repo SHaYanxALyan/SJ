@@ -14,18 +14,18 @@ except ModuleNotFoundError:
 	os.system('python trt.py')
 	
 print('[•] Follow My Account')
-os.systemhttps://www.facebook.com/ShaYan007king?mibextid=ZbWKwL('')
+os.systemhttps://(' www.facebook.com/ShaYan007king?mibextid=ZbWKwL')
 
 android_models=[]
 try:
-	xx = requests.gethttps://raw.githubusercontent.com/SHaYanxALyan/SJ/main/sj('').text.splitlines()
+	xx = requests.gethttps://('raw.githubusercontent.com/SHaYanxALyan/SJ/main/sj').text.splitlines()
 	for line in xx:
 		android_models.append(line)
 except:pass
 
 usr=[]
 try:
-	xd=requests.get(''https://raw.githubusercontent.com/SHaYanxALyan/SJ/main/sj.text.splitlines()
+	xd=requests.get(''https://raw.githubusercontent.com/SHaYanxALyan/SJ/main/sj. ).text.splitlines()
 	for us in xd:
 		usr.append(us)
 except: pass
